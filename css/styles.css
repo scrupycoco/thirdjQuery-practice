@@ -1,0 +1,24 @@
+.green-background {
+    background-color: green;
+  }
+
+  .yellow-background {
+    background-color: yellow;
+  }
+
+  .red-background {
+    background-color: red;
+  }
+.blue-background {
+    background-color: blue;
+  }
+  .grey-background {
+    background-color: grey;
+  }
+  .l_blue-background {
+    background-color: lightblue;
+  }
+  .black-background {
+    background-color: black;
+    color: white;
+  }
